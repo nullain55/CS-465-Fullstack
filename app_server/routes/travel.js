@@ -3,6 +3,9 @@ var router = express.Router();
 var controller = require('../controllers/travel');
 
 /* GET travel page. */
-router.get('/', controller.travel);
+// Define your travel route
+router.get('/', function (req, res, next) {
+    res.render('travel', { title: 'Travel Page' });
+});
 
 module.exports = router;
