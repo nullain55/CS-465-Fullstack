@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -26,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "travel.hbs",
               "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
               "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs",
               "RelativeToolTip": "app_server\\views\\travel.hbs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAwAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-16T01:55:25.474Z",
               "IsPinned": true,
@@ -44,7 +48,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "footer.hbs",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeToolTip": "app_server\\views\\partials\\footer.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T00:53:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "header.hbs",
               "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\partials\\header.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
@@ -57,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app.js",
               "RelativeDocumentMoniker": "app.js",
@@ -65,12 +82,11 @@
               "RelativeToolTip": "app.js",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-19T00:19:39.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T00:19:39.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "error.hbs",
               "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\error.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\error.hbs",
@@ -78,8 +94,7 @@
               "RelativeToolTip": "app_server\\views\\error.hbs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-16T02:31:12.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T02:31:12.672Z"
             }
           ]
         }
