@@ -69,3 +69,4 @@ typings/
 *.code-workspace
 #Prevent Git from tracking .vs/ folder
 .vs/
+/.vs/slnx.sqlite

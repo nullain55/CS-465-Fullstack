@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\foods.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\foods.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\dives.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\dives.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -18,33 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "meals.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\meals.html",
+              "RelativeDocumentMoniker": "public\\meals.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\meals.html",
+              "RelativeToolTip": "public\\meals.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAHMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:44:48.334Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAswEIAAAAUAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-15T03:28:45.215Z",
+              "Title": "foods.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\foods.html",
+              "RelativeDocumentMoniker": "public\\foods.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\foods.html",
+              "RelativeToolTip": "public\\foods.html",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAG4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:44:46.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "travel.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\travel.html",
+              "RelativeDocumentMoniker": "public\\travel.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\travel.html",
+              "RelativeToolTip": "public\\travel.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:43:22.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dives.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\dives.html",
+              "RelativeDocumentMoniker": "public\\dives.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\public\\dives.html",
+              "RelativeToolTip": "public\\dives.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:43:09.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAFsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:38:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "travel.hbs",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeToolTip": "app_server\\views\\travel.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T21:33:57.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app.js",
               "RelativeDocumentMoniker": "app.js",
               "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app.js",
               "RelativeToolTip": "app.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-15T03:19:10.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T21:33:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "travel.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\travel.html",
+              "RelativeDocumentMoniker": "travel.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\travel.html",
+              "RelativeToolTip": "travel.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T21:33:35.386Z"
             }
           ]
         }
