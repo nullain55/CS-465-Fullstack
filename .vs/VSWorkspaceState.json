@@ -2,13 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\controllers",
-    "\\app_server\\routes",
-    "\\app_server\\views",
-    "\\app_server\\views\\layout",
-    "\\app_server\\views\\partials",
-    "\\data",
-    "\\public"
+    "\\app_server\\models",
+    "\\app_server\\views"
   ],
+  "SelectedNode": "\\app_server\\models\\db.js",
   "PreviewInSolutionExplorer": false
 }

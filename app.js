@@ -3,6 +3,10 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+
+const favicon = require('serve-favicon');
+require('./app_server/models/db');
+
 var hbs = require('hbs'); // Import Handlebars
 
 var indexRouter = require('./app_server/routes/index');
@@ -26,6 +30,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
