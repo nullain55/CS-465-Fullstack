@@ -67,6 +67,7 @@ typings/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
 #Prevent Git from tracking .vs/ folder
 .vs/
-/.vs/slnx.sqlite
+.vs/slnx.sqlite
