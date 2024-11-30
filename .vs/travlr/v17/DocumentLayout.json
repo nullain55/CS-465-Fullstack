@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\AppModule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\AppModule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\authentication.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\delete-trip\\delete-trip.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\delete-trip\\delete-trip.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app-router.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app-router.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppModule.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\AppModule.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\AppModule.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\AppModule.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\AppModule.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:41:12.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:38:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "authentication.service.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\authentication.service.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\services\\authentication.service.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\authentication.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:36:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delete-trip.component.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\delete-trip\\delete-trip.component.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.html",
+              "RelativeToolTip": "app_admin\\src\\app\\delete-trip\\delete-trip.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T23:33:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "delete-trip.component.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\delete-trip\\delete-trip.component.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\delete-trip\\delete-trip.component.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\delete-trip\\delete-trip.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:32:17.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:26:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "app_admin\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T23:19:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-router.module.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app-router.module.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app-router.module.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app-router.module.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app-router.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:18:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:18:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.component.html",
+              "RelativeToolTip": "app_admin\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T23:15:10.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\home\\home.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:13:20.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "app_admin\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T23:07:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\app.module.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:06:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\nulla\\OneDrive\\SNHU\\CS 465 Full Stack Development I\\travlr\\app_admin\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\navbar\\navbar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-20T23:05:38.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
